@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+
+/posts/node_modules
+
+/comments/node_modules
+
 # testing
 /coverage
 
