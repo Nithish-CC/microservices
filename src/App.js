@@ -1,5 +1,5 @@
 import React from "react";
-import PostCreate from "./PostCreate";
+import PostCreate from "./posts/PostCreate";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default () =>{
